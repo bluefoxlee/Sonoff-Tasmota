@@ -234,7 +234,7 @@
 #define D_BUTTON_TOGGLE "狀態切換"
 #define D_CONFIGURATION "設置"
 #define D_INFORMATION "信息"
-#define D_FIRMWARE_UPGRADE "固件升級"
+#define D_FIRMWARE_UPGRADE "韌體升級"
 #define D_CONSOLE "控制台"
 #define D_CONFIRM_RESTART "確認重啟"
 
@@ -248,7 +248,7 @@
 #define D_RESET_CONFIGURATION "重置配置"
 #define D_BACKUP_CONFIGURATION "備份配置"
 #define D_RESTORE_CONFIGURATION "還原配置"
-#define D_MAIN_MENU "主菜單"
+#define D_MAIN_MENU "主選單"
 
 #define D_MODULE_PARAMETERS "模塊設置"
 #define D_MODULE_TYPE "模塊類型"
